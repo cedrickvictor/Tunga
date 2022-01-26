@@ -1,0 +1,9 @@
+body{
+	background-image: url(hiring.jpg);
+}
+.table{
+	background-color: grey;
+	text-align: center;
+	margin-top: 500px;
+	width: 1300px;
+}
